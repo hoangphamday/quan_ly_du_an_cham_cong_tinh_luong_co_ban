@@ -10,4 +10,18 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="BLL\" />
+    <Folder Include="DAL\" />
+    <Folder Include="API.DanhMuc\" />
+    <Folder Include="API.Gateway\" />
+    <Folder Include="API_NhanVien\" />
+    <Folder Include="Models\" />
+    <Folder Include="API_TaiKhoan\" />
+    <Folder Include="API_ChamCong\" />
+    <Folder Include="API_TinhLuong\" />
+    <Folder Include="Task2_API_KeToan\" />
+    <Folder Include="Task2_API_Admin\" />
+  </ItemGroup>
+
 </Project>
